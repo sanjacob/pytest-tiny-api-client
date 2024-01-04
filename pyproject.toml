@@ -34,7 +34,3 @@ pytest11 = {pytest_tiny_api_client = "pytest_tiny_api_client"}
 
 [tool.isort]
 length_sort = true
-
-[tool.flake8]
-ignore = ['E731']
-max-line-length = 88
